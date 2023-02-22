@@ -171,9 +171,11 @@ The developed pipeline may possibly fail in varied lighting and illumination con
 
 ## Cite
 ---
+```
 @book{binnani2019vision,
   title={Vision-based Autonomous Driving},
   author={Binnani, Sumit},
   year={2019},
   publisher={University of California, San Diego}
 }
+```
