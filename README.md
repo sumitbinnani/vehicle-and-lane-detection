@@ -168,3 +168,12 @@ The youtube video of the opional implementation of simultaneous vechicle and lan
 A neural network based model might provided better results for the classification for vehicles. Also, [U-Net Segmentation](https://arxiv.org/abs/1505.04597) might provided superior results as compared to window-based search approach.
 
 The developed pipeline may possibly fail in varied lighting and illumination conditions. Also, the multi-window search may be optimized further for better speed and accuracy.
+
+## Cite
+---
+@book{binnani2019vision,
+  title={Vision-based Autonomous Driving},
+  author={Binnani, Sumit},
+  year={2019},
+  publisher={University of California, San Diego}
+}
